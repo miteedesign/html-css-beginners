@@ -2,7 +2,7 @@
 ---
 /* keep the above dashes for jekyll to preprocess this file */
 body {
-  background: url("{{site.baseurl}}/images/background.png") #FFF repeat fixed;
+  background: url("{{site.baseurl}}/images/background.png") #FFFFFF repeat fixed;
   font-family: "Open Sans", Helvetica, sans-serif;
   line-height: 1.6;
 }
